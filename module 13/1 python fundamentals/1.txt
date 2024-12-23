@@ -1,0 +1,10 @@
+python is high level,interpreted ,object oriented programming language.
+python is highly used in industries for coding.
+python code is easy to different language.
+
+    Python is a widely used general-purpose, high-level
+    programming language. It was initially designed by Guido van Rossum
+    in 1991 and developed by Python Software Foundation.
+
+
+Advantage of python
